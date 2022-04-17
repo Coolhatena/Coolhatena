@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Coolhatena
 - 👀 I’m interested in Programing and Gaming
-- 🌱 I’m currently learning several tecnologies, like React, Mongo, Unity, etc...
+- 🌱 I’m currently learning several web programing tecnologies like React, Mongo, Express and Node
 - 💞️ I’m looking to collaborate on new projects and trying to gain programing experience
 - 📫 How to reach me: ingSC.geffroy@gmail.com
 
