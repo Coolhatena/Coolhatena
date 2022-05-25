@@ -1,4 +1,6 @@
 ## Hi, I’m @Coolhatena
+- My name is **Eduardo Rivera Geffroy**
+
 - I’m interested in Programing, Geek, and all around computer stuff.
 
 - I’m currently learning several web programing tecnologies like React, Mongo, Express and Node,
