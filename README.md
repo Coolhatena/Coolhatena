@@ -1,4 +1,4 @@
-## Hi, I’m @Coolhatena
+# Hi, I’m @Coolhatena
 - My name is **Eduardo Rivera Geffroy**
 
 - I’m interested in Programing, Geek, and all around computer stuff.
@@ -8,7 +8,7 @@
 
 - I’m looking to collaborate on new projects and trying to gain programing experience
 
-# How to reach me: 
+## How to reach me: 
 - Email: ingSC.geffroy@gmail.com
 
 <!---
