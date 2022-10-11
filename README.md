@@ -1,7 +1,7 @@
 # Hi, I’m @Coolhatena
 ## My name is **Eduardo Rivera Geffroy**
 
-- I’m interested in Coding, Geek stuff like videogames, series, movies, etc.
+- I’m interested in Coding & Geek stuff like videogames, series, movies, etc.
 
 - I’m currently learning several programing languages and tecnologies, So my repos could be kind of diverse!
 
