@@ -7,7 +7,7 @@
 
 - I’m looking to collaborate on new projects and trying to gain programing experience
 
-- Currently working on [Azordev](https://github.com/Azordev) and [Machinign Network](http://machiningnetwork.com) as software developer 
+- Currently working on [Machinign Network](http://machiningnetwork.com) as software developer 
 
 ## How to reach me: 
 - Email: ingSC.geffroy@gmail.com
