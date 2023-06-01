@@ -1,4 +1,4 @@
-# Hi, I’m **Eduardo Rivera Geffroy** @Coolhatena
+# Hi, I’m **Eduardo Rivera Geffroy** (@Coolhatena)
 
 - I’m interested in Coding & Geek stuff like videogames, series, movies, etc.
 
