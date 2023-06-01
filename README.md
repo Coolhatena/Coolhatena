@@ -4,7 +4,7 @@
 
 - I’m currently learning several programing languages and tecnologies, So my repos could be kind of diverse!
 
-- I’m looking to collaborate on new projects and trying to gain programing experience
+- I’m looking to collaborate on new projects and expand my portfolio ;)
 
 - Currently working on [Machinign Network](http://machiningnetwork.com) as software developer 
 
