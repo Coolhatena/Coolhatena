@@ -10,7 +10,7 @@
 - I learn different languages & tecnologies in my **short** free time in search of finding the definitive stack to specialize (ITS HARD TO CHOOSE BETWEEN SO MANY GOOD ONES)
 
 ## Work
-- Currently working on [Machinign Network](http://machiningnetwork.com) as software developer, with specialization in computer vision and development of programs for industrial purposes
+- (2021 - Present) Currently working on [Machinign Network](http://machiningnetwork.com) as software developer, with specialization in computer vision and development of programs for industrial purposes
 
 ## How to reach me: 
 - Email: ingSC.geffroy@gmail.com
