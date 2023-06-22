@@ -1,12 +1,16 @@
 # Hi, I’m **Eduardo Rivera Geffroy** (@Coolhatena)
 
-- I’m interested in Coding & Geek stuff like videogames, series, movies, etc.
+## Interest
+- Im a passionate programmer, im into anything related to computers
+- I've played videogames for as long as I can remember
+- I love action movies & series, and particulary a huge fan of Star Wars ／▼益▼＼
 
-- I’m currently learning several programing languages and tecnologies, so my repos could be kind of diverse!
+## Learning path
+- I am currently studying Computer Systems Engineering at the Instituto Tecnologico de Ensenada
+- I learn different languages & tecnologies in my **short** free time in search of finding the definitive stack to specialize (ITS HARD TO CHOOSE BETWEEN SO MANY GOOD ONES)
 
-- I’m looking to collaborate on new projects and expand my portfolio ;)
-
-- Currently working on [Machinign Network](http://machiningnetwork.com) as software developer 
+## Work
+- Currently working on [Machinign Network](http://machiningnetwork.com) as software developer, with specialization in computer vision and development of programs for industrial purposes
 
 ## How to reach me: 
 - Email: ingSC.geffroy@gmail.com
