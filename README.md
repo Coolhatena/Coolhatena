@@ -3,7 +3,7 @@
 ## Interest
 - Im a passionate programmer, im into anything related to computers
 - I've played videogames for as long as I can remember
-- I love action movies & series, and particulary a huge fan of Star Wars ／▼益▼＼
+- I love action movies & series, and im particulary a huge fan of Star Wars ／▼益▼＼
 
 ## Learning path
 - I am currently studying Computer Systems Engineering at the Instituto Tecnologico de Ensenada
