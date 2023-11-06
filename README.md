@@ -10,6 +10,7 @@
 - I learn different languages & tecnologies in my **short** free time in search of finding the definitive stack to specialize (ITS HARD TO CHOOSE BETWEEN SO MANY GOOD ONES)
 
 ## Work
+- (2021) Worked on [Azordev](http://machiningnetwork.com) as front-end developer, building web projects using MERN stack and mobile apps with React Native 
 - (2021 - Present) Currently working on [Machinign Network](http://machiningnetwork.com) as software developer, with specialization in computer vision and development of programs for industrial purposes
 
 ## How to reach me: 
