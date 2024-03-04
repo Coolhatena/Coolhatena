@@ -13,6 +13,10 @@
 - (2021) Worked on [Azordev](https://azordev.github.io/) as front-end developer, building web projects using MERN stack and mobile apps with React Native 
 - (2021 - Present) Currently working on [Machinign Network](http://machiningnetwork.com) as software developer, with specialization in computer vision and development of programs for industrial purposes
 
+## Certificates (Only showing the ones available online)
+FreeCodeCamp:
+- [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Coolhatena/javascript-algorithms-and-data-structures)
+
 ## How to reach me: 
 - Email: ingSC.geffroy@gmail.com
 - Personal Website: [eduardoriverageffroy.netlify.app](https://eduardoriverageffroy.netlify.app)
