@@ -7,7 +7,7 @@
 
 ## Learning path
 - I am currently studying Computer Systems Engineering at the Instituto Tecnologico de Ensenada
-- I learn different languages & tecnologies in my **short** free time in search of finding the definitive stack to specialize (ITS HARD TO CHOOSE BETWEEN SO MANY GOOD ONES)
+- I learn different languages & tecnologies in my **short** free time with the hope of finding the definitive stack to specialize (ITS HARD TO CHOOSE BETWEEN SO MANY GOOD ONES)
 
 ## Work
 - (2022) Worked on [Azordev](https://azordev.github.io/) as front-end developer, building web projects using MERN stack and mobile apps with React Native 
