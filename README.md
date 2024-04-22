@@ -1,4 +1,4 @@
-# Hi, I’m **Eduardo Rivera Geffroy** (@Coolhatena)
+# Hello there, I’m **Eduardo Rivera Geffroy** (@Coolhatena)
 
 ## Interest
 - Im a passionate programmer, im into anything related to computers
