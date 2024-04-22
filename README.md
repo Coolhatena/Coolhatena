@@ -3,6 +3,7 @@
 ## Interest
 - Im a passionate programmer, im into anything related to computers
 - I've played videogames for as long as I can remember
+- I mainly listen to Metal and Rock ( The harder the riffs the cleaner the code 🔥)
 - I love action movies & series, and im particulary a huge fan of Star Wars ／▼益▼＼
 
 ## Learning path
