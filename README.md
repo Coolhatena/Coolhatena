@@ -13,7 +13,7 @@
 - (2022) Worked on [Azordev](https://azordev.github.io/) as front-end developer, building web projects using MERN stack and mobile apps with React Native 
 - (2022 - Present) Currently working on [Machinign Network](http://machiningnetwork.com) as software developer, with specialization in computer vision ( Using Python with libraries like OpenCV, Mediapipe and some IA Segmentation / Object Detection tools ) and development of programs for industrial purposes ( Data Collection on Shop Floor for analysis, maintenance and decision-making | Interactive Aids for Manufacturing Operators )
 
-## Certificates (Only showing the ones available online)
+## Certificates (At least the ones available online)
 FreeCodeCamp:
 - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Coolhatena/javascript-algorithms-and-data-structures)
 
