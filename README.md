@@ -24,3 +24,5 @@ FreeCodeCamp:
 ## How to reach me: 
 - Email: ingSC.geffroy@gmail.com
 - Personal Website: [eduardoriverageffroy.netlify.app](https://eduardoriverageffroy.netlify.app)
+
+![](https://komarev.com/ghpvc/?username=Coolhatena&color=green)
