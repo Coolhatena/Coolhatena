@@ -17,6 +17,7 @@
 ## Certificates (Only the ones available online)
 FreeCodeCamp:
 - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Coolhatena/javascript-algorithms-and-data-structures)
+- [Flutter & Dart - The Complete Guide [2024 Edition]](https://www.udemy.com/certificate/UC-08ab2c12-c34d-4370-a728-bc38d8433acf/)
 
 ## Donations:
 - One of my projects was helpful to you and now you want to help me live another day? click here: https://paypal.me/coolhatena ;)
