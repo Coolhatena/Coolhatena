@@ -4,7 +4,7 @@
 - Im a passionate programmer, im into anything related to computers
 - I've played videogames for as long as I can remember
 - I mainly listen to Metal and Rock ( The harder the riffs the cleaner the code 🔥)
-- I love action movies & series, and im particulary a huge fan of Star Wars ／▼益▼＼
+- I love the Cyberpunk genre, including videogames, movies and books, and im particulary a huge fan of William Gibson
 
 ## Learning path
 - I am currently studying Computer Systems Engineering at the Instituto Tecnologico de Ensenada
