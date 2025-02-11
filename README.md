@@ -29,6 +29,6 @@ Udemy:
 - Personal Website: [eduardoriverageffroy.netlify.app](https://eduardoriverageffroy.netlify.app)
 
 ## Stats:
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=coolhatena)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=coolhatena&hide=html,java&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Coolhatena&color=green)
