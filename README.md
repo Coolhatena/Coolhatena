@@ -32,6 +32,6 @@ Udemy:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=coolhatena&theme=dark)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=coolhatena&hide=html,java&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=coolhatena&hide=html,java&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Coolhatena&color=green)
