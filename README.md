@@ -29,7 +29,7 @@ Udemy:
 - Personal Website: [eduardoriverageffroy.netlify.app](https://eduardoriverageffroy.netlify.app)
 
 ## Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=coolhatena&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=coolhatena&theme=dark&locale=es)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=coolhatena&hide=html,java&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
