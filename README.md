@@ -7,7 +7,7 @@
 - I love the Cyberpunk genre, including videogames, movies and books, and im particulary a huge fan of William Gibson
 
 ## Learning path
-- I am currently studying Computer Systems Engineering at the Instituto Tecnologico de Ensenada
+- I am currently studying Computer Systems Engineering at Ensenada Technological Institute
 - I learn different languages & tecnologies in my free time to keep me up with the latest tech skills
 
 ## Work
