@@ -25,7 +25,7 @@
 - One of my projects was helpful to you and now you want to help me live another day? click here: https://paypal.me/coolhatena ;)
 
 ## How to reach me: 
-- Email: ingSC.geffroy@gmail.com
+- Email: ingsc.geffroy@gmail.com
 - Personal Website: [eduardoriverageffroy.netlify.app](https://eduardoriverageffroy.netlify.app)
 
 ## Stats:
