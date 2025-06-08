@@ -21,6 +21,9 @@
 **Udemy**:
 - [Flutter & Dart - The Complete Guide [2024 Edition]](https://www.udemy.com/certificate/UC-08ab2c12-c34d-4370-a728-bc38d8433acf/)
 
+**Microsoft**
+- [Generative AI Fundamentals by Microsoft](https://drive.google.com/file/d/1oBQkf6ptdZjOsub5FRCPq47cIpp54otL/view?usp=drive_link)
+
 ## Donations:
 - One of my projects was helpful to you and now you want to help me live another day? click here: https://paypal.me/coolhatena ;)
 
