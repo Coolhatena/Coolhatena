@@ -33,7 +33,6 @@
 
 ## Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=coolhatena&theme=dark&locale=es)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolhatena&layout=pie&hide=html,java,cmake&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
