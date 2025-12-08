@@ -3,7 +3,7 @@
 ## Interest
 - I'm a passionate programmer, I'm into anything related to computers
 - I've played videogames for as long as I can remember
-- I mainly listen to Metal and Rock ( The harder the riffs the cleaner the code 🔥)
+- I mainly listen to Metal and Rock music ( The harder the riffs the cleaner the code 🔥)
 - I love the Cyberpunk genre, including videogames, movies and books.
 
 ## Learning path
