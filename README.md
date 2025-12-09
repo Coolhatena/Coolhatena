@@ -13,7 +13,7 @@
 ## Work
 - (2022) Worked on [Azordev](https://azordev.github.io/) as Front-End Developer, building web projects using MERN stack and mobile apps with React Native 
 - (2022 - Present) Currently working on [Machinign Network](http://machiningnetwork.com) as Software Engineer, with specialization in computer vision (Using Python with libraries like OpenCV, Mediapipe and some IA Segmentation / Object Detection tools, lime YOLO and Detectron) and development of programs for industrial purposes (Data Collection on Shop Floor for analysis, maintenance and decision-making, Interactive Aids for Manufacturing Operators, etc.)
-- (2025 - Present) I'm working full time with AXP TEK, where I collaborate with a team of developers to mantain and update multiple software solutions for the logistics industry, we develop websites using PHP, JavaScript and SQL, and I'm the main mantainer of many Ionic + Angular mobile apps.
+- (2025 - Present) I'm working full time with AXP TEK, where I collaborate with a team of developers to mantain and update multiple software solutions for the logistics and transport industry, we develop websites using PHP, JavaScript and SQL, and I'm the main mantainer of many Ionic + Angular mobile apps.
 
 ## Certificates (Only the ones available online)
 **FreeCodeCamp**:
