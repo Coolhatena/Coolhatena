@@ -4,7 +4,7 @@
 - I'm a passionate programmer, I'm into anything related to computers
 - I've played videogames for as long as I can remember
 - I mainly listen to Metal and Rock music ( The harder the riffs the cleaner the code 🔥)
-- I love the Cyberpunk genre, including videogames, movies and books.
+- I love the Cyberpunk genre, from videogames, to movies, books and everything with neon lights and some cool technobabble on it.
 
 ## Learning path
 - I am currently studying Computer Systems Engineering at Ensenada Technological Institute
