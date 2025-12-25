@@ -26,6 +26,7 @@
  
 - [Ultimate Docker: From Zero to Deploy](https://www.udemy.com/certificate/UC-173f322d-7549-4a8d-be97-e74c8ccc2a0b/)
 
+- [GIT + GitHub: A complete version control from zero](https://www.udemy.com/certificate/UC-525a59cf-934e-4521-a5a9-2737664e0cea/)
 **Microsoft**
 - [Generative AI Fundamentals by Microsoft](https://drive.google.com/file/d/1oBQkf6ptdZjOsub5FRCPq47cIpp54otL/view?usp=drive_link)
 
