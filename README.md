@@ -22,11 +22,11 @@
 - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Coolhatena/javascript-algorithms-and-data-structures)
 
 **Udemy**:
-- [Flutter & Dart - The Complete Guide [2024 Edition]](https://www.udemy.com/certificate/UC-08ab2c12-c34d-4370-a728-bc38d8433acf/) by Maximilian Schwarzmüller
+- [Flutter & Dart - The Complete Guide [2024 Edition]](https://www.udemy.com/certificate/UC-08ab2c12-c34d-4370-a728-bc38d8433acf/) by ***Maximilian Schwarzmüller***
  
-- [Ultimate Docker: From Zero to Deploy](https://www.udemy.com/certificate/UC-173f322d-7549-4a8d-be97-e74c8ccc2a0b/) by Nicolas Schurmann
+- [Ultimate Docker: From Zero to Deploy](https://www.udemy.com/certificate/UC-173f322d-7549-4a8d-be97-e74c8ccc2a0b/) by ***Nicolas Schurmann***
 
-- [GIT + GitHub: A complete version control from zero](https://www.udemy.com/certificate/UC-525a59cf-934e-4521-a5a9-2737664e0cea/) by Fernando Herrera
+- [GIT + GitHub: A complete version control from zero](https://www.udemy.com/certificate/UC-525a59cf-934e-4521-a5a9-2737664e0cea/) by ***Fernando Herrera***
   
 **Microsoft**
 - [Generative AI Fundamentals by Microsoft](https://drive.google.com/file/d/1oBQkf6ptdZjOsub5FRCPq47cIpp54otL/view?usp=drive_link)
