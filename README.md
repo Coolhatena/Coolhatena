@@ -4,7 +4,7 @@ Software Engineer | Backend | Computer Vision | Industrial Systems
 ## Interest
 - Deep interest in software, algorithms, and anything that runs on silicon.
 - I've played videogames for as long as I can remember
-- I mainly listen to Metal and Rock music ( The harder the riffs the cleaner the code 🔥)
+- I mainly listen to Metal and Rock music (The harder the riffs, the cleaner the code 🔥)
 - Big fan of the Cyberpunk genre — from games to movies, books, and anything with neon lights and questionable tech.
 
 ## Learning Path
@@ -23,11 +23,12 @@ Software Engineer | Backend | Computer Vision | Industrial Systems
 
 - (2022 - 2025) Software Engineer at [Machining Network](https://machiningnetwork.com/)
   Specialized in computer vision and industrial software development.  
-  - Development of computer vision systems using Python, OpenCV, YOLO, and Detectron  
+  - Development of computer vision systems using Python, OpenCV, YOLO, and Detectron
   - Object detection and segmentation for quality control in production lines  
   - Integration with industrial hardware and shop floor systems  
   - Development of data collection and analysis tools for manufacturing environments  
   - Creation of operator-facing interactive systems  
+  - Deployment of vision systems directly into production lines for automated quality control.
 
 - (2022) Front-End Developer at [Azordev](https://azordev.github.io/)  
   - Web development using MERN stack  
