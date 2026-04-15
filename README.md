@@ -6,16 +6,32 @@
 - I mainly listen to Metal and Rock music ( The harder the riffs the cleaner the code 🔥)
 - I love the Cyberpunk genre, from videogames, to movies, books and everything with neon lights and some cool technobabble on it.
 
-## Learning path
-- I studied Computer Systems Engineering at Ensenada Technological Institute
-- I learn different languages & tecnologies in my free time to keep me up with the latest tech skills
+## Learning Path
+- Computer Systems Engineering student at Ensenada Technological Institute.
+- Focused on building real-world systems across backend, computer vision, and industrial software.
+- Continuously expanding my stack through hands-on projects and production experience.
 
 ## Work
-- (2022) Worked on [Azordev](https://azordev.github.io/) as Front-End Developer, building web projects using MERN stack and mobile apps with React Native.
-  
-- (2022 - Present) Currently working on [Machinign Network](http://machiningnetwork.com) as Software Engineer, with specialization in computer vision (Using Python with libraries like OpenCV, Mediapipe and some IA Segmentation / Object Detection tools, lime YOLO and Detectron) and development of programs for industrial purposes (Data Collection on Shop Floor for analysis, maintenance and decision-making, Interactive Aids for Manufacturing Operators, etc.).
-  
-- (2025 – Present) Software Engineer at AXP TEK, working as part of a multidisciplinary team maintaining and extending multiple platforms for the logistics and transportation sector. My work includes backend and web development with PHP, JavaScript, and SQL, ongoing maintenance of multiple Ionic + Angular mobile apps, and active participation in designing and implementing the Docker-based development environment and CI/CD pipelines with Git.
+- (2025 – Present) Software Engineer at [AXP TEK](https://www.axptek.com/)  
+  Working on logistics and transportation platforms in production environments.  
+  - Backend and web development using PHP, JavaScript, and SQL  
+  - Maintenance and evolution of Ionic + Angular mobile applications  
+  - Design of Docker-based development environments  
+  - Implementation of CI/CD pipelines and Git workflows  
+  - Debugging and resolving production issues in real systems  
+
+- (2022 - Present) Software Engineer at [Machining Network](https://machiningnetwork.com/)
+  Specialized in computer vision and industrial software development.  
+  - Development of computer vision systems using Python, OpenCV, YOLO, and Detectron  
+  - Object detection and segmentation for quality control in production lines  
+  - Integration with industrial hardware and shop floor systems  
+  - Development of data collection and analysis tools for manufacturing environments  
+  - Creation of operator-facing interactive systems  
+
+- (2022) Front-End Developer at [Azordev](https://azordev.github.io/)  
+  - Web development using MERN stack  
+  - Mobile app development with React Native  
+  - Remote collaboration in distributed teams  
 
 ## Online Certificates
 **FreeCodeCamp**:
