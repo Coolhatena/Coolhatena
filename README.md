@@ -7,7 +7,7 @@
 - I love the Cyberpunk genre, from videogames, to movies, books and everything with neon lights and some cool technobabble on it.
 
 ## Learning path
-- I am currently studying Computer Systems Engineering at Ensenada Technological Institute
+- I studied Computer Systems Engineering at Ensenada Technological Institute
 - I learn different languages & tecnologies in my free time to keep me up with the latest tech skills
 
 ## Work
