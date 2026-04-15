@@ -1,10 +1,11 @@
-# Hello there, I’m ***Eduardo Rivera Geffroy*** (@Coolhatena)
+# Eduardo Rivera Geffroy (@Coolhatena)
+Software Engineer | Backend | Computer Vision | Industrial Systems
 
 ## Interest
-- I'm a passionate tech nerd, I'm into anything related to computers.
+- Deep interest in software, algorithms, and anything that runs on silicon.
 - I've played videogames for as long as I can remember
 - I mainly listen to Metal and Rock music ( The harder the riffs the cleaner the code 🔥)
-- I love the Cyberpunk genre, from videogames, to movies, books and everything with neon lights and some cool technobabble on it.
+- Big fan of the Cyberpunk genre — from games to movies, books, and anything with neon lights and questionable tech.
 
 ## Learning Path
 - B.S. in Computer Systems Engineering – Ensenada Technological Institute
@@ -20,7 +21,7 @@
   - Implementation of CI/CD pipelines and Git workflows  
   - Debugging and resolving production issues in real systems  
 
-- (2022 - Present) Software Engineer at [Machining Network](https://machiningnetwork.com/)
+- (2022 - 2025) Software Engineer at [Machining Network](https://machiningnetwork.com/)
   Specialized in computer vision and industrial software development.  
   - Development of computer vision systems using Python, OpenCV, YOLO, and Detectron  
   - Object detection and segmentation for quality control in production lines  
@@ -47,8 +48,9 @@
 **Microsoft**
 - [Generative AI Fundamentals by Microsoft](https://drive.google.com/file/d/1oBQkf6ptdZjOsub5FRCPq47cIpp54otL/view?usp=drive_link)
 
-## Donations:
-- One of my projects was helpful to you and now you want to help me live another day? click here: https://paypal.me/coolhatena ;)
+## Support
+If one of my projects was useful to you, feel free to support my work:
+https://paypal.me/coolhatena
 
 ## How to reach me: 
 - Email: ingsc.geffroy@gmail.com
