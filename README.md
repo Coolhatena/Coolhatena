@@ -1,13 +1,13 @@
 # Hello there, I’m ***Eduardo Rivera Geffroy*** (@Coolhatena)
 
 ## Interest
-- I'm a passionate programmer, I'm into anything related to computers
+- I'm a passionate tech nerd, I'm into anything related to computers.
 - I've played videogames for as long as I can remember
 - I mainly listen to Metal and Rock music ( The harder the riffs the cleaner the code 🔥)
 - I love the Cyberpunk genre, from videogames, to movies, books and everything with neon lights and some cool technobabble on it.
 
 ## Learning Path
-- Computer Systems Engineering student at Ensenada Technological Institute.
+- B.S. in Computer Systems Engineering – Ensenada Technological Institute
 - Focused on building real-world systems across backend, computer vision, and industrial software.
 - Continuously expanding my stack through hands-on projects and production experience.
 
